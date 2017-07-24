@@ -3,7 +3,7 @@
 其原理才可以。不要骂我不要脸的在展示自己写的东西。
 <br>
 <br>
-![](https://github.com/waws80/ThanatosEventBus/blob/master/u=435922930,3261093505&fm=26&gp=0.jpg?raw=true)
+![](https://github.com/waws80/ThanatosEventBus/blob/master/a.jpg?raw=true)
 <br>
 好吧！至于EventBus怎么用大家都知道这里就不献丑了，接下来说说我写的这个的完成度。
 <br>
